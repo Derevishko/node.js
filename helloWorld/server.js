@@ -6,7 +6,6 @@ map.set('/',async function(){
   return `Hello Koa!!!`
 })
 
-
 map.set('/favicon.ico',async function(){
   return `no image`
 })
