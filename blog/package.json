@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "common blog",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "gulp": "^3.9.1",
+    "mongodb": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derevishko/node.js.git"
+  },
+  "author": "Derevyas Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derevishko/node.js/issues"
+  },
+  "homepage": "https://github.com/Derevishko/node.js#readme"
+}
